@@ -1,0 +1,162 @@
+html {
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+header {
+  width: 960px;
+  margin-bottom: 1px;
+}
+h1{
+  width: 325px;
+  margin-bottom: 0px;
+}
+
+#delicious {
+  width: 350px;
+  display: inline-block;
+}
+
+#logoP {
+  display: inline-block;
+  width: 45px;
+  padding-right: 0px;
+}
+
+#headerImages {
+  display: inline-block;
+  width: 225px;
+  float: right;
+  margin-left: 0px;
+  padding-top: 20px;
+}
+
+#headerImages li {
+  display: inline-block;
+}
+
+#printList {
+  margin-left: 690px;
+  display: inline-block;
+  list-style: none;
+}
+
+#postedOn {
+  display: inline-block;
+  margin-top: 0px;
+}
+
+#chocoPizza {
+  width: 960px;
+}
+
+#chocoPizza img {
+  width: 960px;
+}
+
+section {
+  width: 960px;
+  text-indent: 40px;
+
+}
+
+section p {
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.stripes {
+  height: 15px;
+  background-image: linear-gradient(45deg, #888 25%, transparent 25%, transparent 50%, #888 50%, #888 75%, transparent 75%, transparent);
+  background-size: 4px 4px;
+  width: 960px;
+}
+
+#list {
+  width: 960px;
+  background-image: url(https://github.com/codefellows/seattle-201d34/blob/master/10-js-debugging-wireframe-part-2/lab/lab-assets/list-bg.png?raw=true);
+  margin-bottom: 30px;
+  height: 275px;
+}
+
+#list ul {
+  display: inline-block;
+  width: 325px;
+  font-family: 'Patrick Hand', cursive;
+  padding-left: 130px;
+  font-size: 1.2rem;
+  margin-top: 0px;
+  padding-top: 60px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+#van {
+  padding: 30px;
+}
+
+h2 {
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+button {
+  width: 150px;
+  height: 50px;
+  background-color: brown;
+  color: white;
+}
+
+table {
+  width: 960px;
+}
+
+table:last-child {
+  padding-top: 30px;
+}
+
+footer {
+  display: inline-block;
+  text-align: center;
+  width: 960px;
+  border-top: 3px solid grey;
+  z-index: 2;
+}
+
+#secondChild {
+  padding: 0px;
+}
+
+#topsideborderfoot {
+  z-index: 1;
+}
+
+#footLogo {
+  padding-left: 460px;
+  z-index: 2;
+  padding-top: 40px;
+}
+
+#delicious {
+  font-family: 'Yellowtail', cursive;
+  width: 100px;
+  font-size: 25px;
+  margin-top: -10px;
+}
+
+#chocPizza {
+  font-family: 'Anton', sans-serif;
+}
+
+.postedOn {
+  font-family: 'PT Sans Narrow', sans-serif;
+  display: inline-block;
+  font-size: 14px;
+
+}
+
+header p {
+  width: 200px;
+  display: inline-block;
+}
+
